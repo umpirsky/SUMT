@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "fb41d2d8ea209c3e7f11552405698801",
+    "content-hash": "4504b76e678d9be637158b83152816a5",
     "packages": [
         {
             "name": "doctrine/annotations",
@@ -2501,20 +2501,20 @@
         },
         {
             "name": "symfony/symfony",
-            "version": "v4.1.2",
+            "version": "v4.1.11",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/symfony.git",
-                "reference": "c42cc18492fe7bbfc507822ac62e3179a6518d71"
+                "reference": "a57ce22ab5ceba15f8606b8955d715f232c279f6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/symfony/zipball/c42cc18492fe7bbfc507822ac62e3179a6518d71",
-                "reference": "c42cc18492fe7bbfc507822ac62e3179a6518d71",
+                "url": "https://api.github.com/repos/symfony/symfony/zipball/a57ce22ab5ceba15f8606b8955d715f232c279f6",
+                "reference": "a57ce22ab5ceba15f8606b8955d715f232c279f6",
                 "shasum": ""
             },
             "require": {
-                "doctrine/common": "~2.4@stable",
+                "doctrine/common": "~2.4",
                 "ext-xml": "*",
                 "fig/link-util": "^1.0",
                 "php": "^7.1.3",
@@ -2600,7 +2600,7 @@
                 "doctrine/data-fixtures": "1.0.*",
                 "doctrine/dbal": "~2.4",
                 "doctrine/doctrine-bundle": "~1.4",
-                "doctrine/orm": "~2.4,>=2.4.5,<=2.7.0",
+                "doctrine/orm": "~2.4,>=2.4.5",
                 "egulias/email-validator": "~1.2,>=1.2.8|~2.0",
                 "monolog/monolog": "~1.11",
                 "ocramius/proxy-manager": "~0.4|~1.0|~2.0",
@@ -2650,7 +2650,7 @@
             "keywords": [
                 "framework"
             ],
-            "time": "2018-07-23T17:16:40+00:00"
+            "time": "2019-01-29T10:41:23+00:00"
         },
         {
             "name": "theseer/tokenizer",
