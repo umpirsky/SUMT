@@ -1,0 +1,14 @@
+{
+    "name": "umpirsky/symfony-url-matcher-test",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Umpirsky\\SUMT\\": "src/Umpirsky/SUMT"
+        }
+    },
+    "require": {
+        "php": "^7.2",
+        "symfony/symfony": "4.1.2",
+        "phpunit/phpunit": "^8.1"
+    }
+}
